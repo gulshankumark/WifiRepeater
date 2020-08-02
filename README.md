@@ -1,5 +1,5 @@
 # WifiRepeater
-## An ESP8266 based Wifi Extender with very easy configuration.
+## An ultra-cheap ESP8266 based Wifi Extender with easy configuration.
 
 ### Prerequisites:
 ##### 1. USB Type A to Micro B data cable
